@@ -4,7 +4,7 @@
 
 This is our data structure project. Our teacher ask us to solve an algorithm problem. Here's the description of the problem:
 
-    The world-famous drawings gallery has m*n rooms. To protect the drawings, each room needs to be spied by a robot guard. Each robot can      spy 4 rooms on its north, south, west and east. Now write a program to find one solution that can spy all rooms with minimum robots.
+    The world-famous drawings gallery has m*n rooms. To protect the drawings, each room needs to be spied by a robot guard. Each robot can spy 4 rooms on its north, south, west and east. Now write a program to find one solution that can spy all rooms with minimum robots.
 
 ![program image](/src/doc/images/program-image.png)
 
