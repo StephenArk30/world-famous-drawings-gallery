@@ -10,7 +10,7 @@ This is our data structure project. Our teacher ask us to solve an algorithm pro
 
 ## Algorithm
 
-[The algorithm of this program refer to this article](https://blog.csdn.net/m0_37809890/article/details/80823205)
+The algorithm of this program refer to [this article](https://blog.csdn.net/m0_37809890/article/details/80823205)
 
 ## GUI
 
